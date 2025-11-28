@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/votienkhoa/plantbot-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/thuonguyenvan/Plant-Recognition-with-Q-A-System-Backend
